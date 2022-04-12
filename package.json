@@ -1,0 +1,23 @@
+{
+  "name": "manuals",
+  "version": "1.0.0",
+  "description": "- [Jest](jasmine.md) - to be continued...",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulMalgin/manuals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulMalgin/manuals/issues"
+  },
+  "homepage": "https://github.com/PaulMalgin/manuals#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
